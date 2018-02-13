@@ -1,0 +1,21 @@
+Average Wait for printer 1:  32.13 secs.  0 tasks remaining of 152 tasks.
+Average Wait for printer 2:  29.18 secs.  0 tasks remaining of  60 tasks.
+Average Wait for printer 1:  39.96 secs.  0 tasks remaining of 141 tasks.
+Average Wait for printer 2:  42.25 secs.  0 tasks remaining of  63 tasks.
+Average Wait for printer 1:  21.14 secs.  1 tasks remaining of 147 tasks.
+Average Wait for printer 2:  17.91 secs.  1 tasks remaining of  57 tasks.
+Average Wait for printer 1:  37.00 secs.  0 tasks remaining of 145 tasks.
+Average Wait for printer 2:  29.47 secs.  0 tasks remaining of  60 tasks.
+Average Wait for printer 1:  32.91 secs.  0 tasks remaining of 148 tasks.
+Average Wait for printer 2:  27.16 secs.  0 tasks remaining of  63 tasks.
+Average Wait for printer 1:  15.59 secs.  0 tasks remaining of 143 tasks.
+Average Wait for printer 2:  21.65 secs.  0 tasks remaining of  71 tasks.
+Average Wait for printer 1:  17.46 secs.  0 tasks remaining of 136 tasks.
+Average Wait for printer 2:  21.90 secs.  0 tasks remaining of  59 tasks.
+Average Wait for printer 1:  25.98 secs.  1 tasks remaining of 139 tasks.
+Average Wait for printer 2:  48.02 secs.  1 tasks remaining of  64 tasks.
+Average Wait for printer 1:  30.07 secs.  1 tasks remaining of 140 tasks.
+Average Wait for printer 2:  37.33 secs.  1 tasks remaining of  61 tasks.
+Average Wait for printer 1:  20.60 secs.  0 tasks remaining of 131 tasks.
+Average Wait for printer 2:  34.80 secs.  0 tasks remaining of  54 tasks.
+Overall average wait time is  29.13 seconds.
